@@ -1,0 +1,46 @@
+.ygatas {
+    text-align: center;
+    color: blue;
+
+}
+body {
+    background-color:bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img {
+    width: 20%;
+}
+p {
+    text-align: left;
+}
+#presiden {
+    font-style: oblique;
+}
+.huruf-besar {
+    text-transform: uppercase;
+}
+.barsrc {
+    text-align: center;
+}
+.kiriin {
+    text-align: center;
+}
+#geo {
+    font-style: oblique;
+}
+.gedein {
+    font-size: 40px;
+    color: blue;
+}
+blockquote {
+    background-color: coral;
+    text-align: center;
+    
+}
+.header {
+    background-color: chocolate;
+    text-align: center;
+}
+.atasbawah {
+    text-align: center;
+}
